@@ -1,16 +1,23 @@
-## Hi there, I'm Levon Williams I am a detail-oriented data analyst with a strong foundation in statistical analysis, data visualization, and business intelligence. With hands-on experience in tools like SQL, Python, Excel, and Tableau, I specialize in transforming complex data into actionable insights that drive strategic decision-making. Passionate about problem solving and continuous learning, I thrive in collaborative environments where data is at the core of innovation and growth
+<h1 align="center">Hi 👋, I'm Levon Williams</h1>
+<h3 align="center">Data-Driven Business Information Analyst (SQL,Power BI, Tableau)</h3>
 
-<!--
-**LevonWilliams/LevonWilliams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **free lance data analytics projects**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Business Analytics, Data Visualization, and**
 
-- 🔭 I’m currently working on leveraging my hard skills (SQL, Tableau, Pivot Tables) to transform raw data into actionable insights to help companies maximize their sales and profitability.
-- 🌱 I’m currently learning Data visualization, Python, SQL as well as other soft skills neccessary to be a valuable asset to any company as a Data Analyst. Education never stops especially in this industry so I am constantly learning looking for ways to gain an advantage in this field.  
-- 👯 I’m looking to collaborate with companies who are equally as passionate about using data to facilate growth, I am interested in collaborating with other analyst in the field to share knowledge and experiences as well.
-- 🤔 I’m looking for help 
-- 💬 Ask me about Ask me about how I turn messy data inot actinable insights, or how I've used SQl and Python to automate reporting and save hours of manual work. I am also happy to talk about data visualization, stakeholder communication, or designing metrics that drive business decisions.
-- 📫 How to reach me: https://www.linkedin.com/in/levon-williams-/
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I am a former professional basketball player with experience playing overseas in Mexico, Europe and Asia, also I am a Certified Personal Trainer and the owner of Deeper Than Reps LLC for over 4 years helping busy professionals achieve their fitness goals.
--->
+- 👯 I’m looking to collaborate on **optimizing business and solving company problems using statistical analysis and data**
+
+- 🤝 I’m looking for help with **collaboration on exciting new opportunities to collaborate with and enhance businesses**
+
+- 💬 Ask me about **how my skill set can be an asset to your company or business**
+
+- 📫 How to reach me **levon878@gmail.com**
+
+- 📄 Know about my experiences [https://docs.google.com/document/d/1KVCf9Xe6E60-ssflVyAiWT1jo2zAfBKuyDBkOtaKDQI/edit?usp=sharing](https://docs.google.com/document/d/1KVCf9Xe6E60-ssflVyAiWT1jo2zAfBKuyDBkOtaKDQI/edit?usp=sharing)
+
+- ⚡ Fun fact **I am a retired international professional basketball player**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/levon-williams-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/levon-williams-/" height="30" width="40" /></a>
+</p>
