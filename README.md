@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **free-lance business information projects**
 
-- 🌱 I’m currently learning **Business Analytics, Data Visualization, and**
+- 🌱 I’m currently learning **Business Analytics, Data Visualization, and leveraging those skills to land my dream remote job in BI**
 
-- 👯 I’m looking to collaborate on **optimizing business and solving company problems using statistical analysis and data**
+- 👯 I’m looking to collaborate on **optimizing business, solving company problems using statistical analysis and data and exploring new opportunites as an analyst in the tech space**
 
 - 🤝 I’m looking for help with **collaboration on exciting new opportunities to collaborate with and enhance businesses**
 
