@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Levon Williams</h1>
-<h3 align="center">Data-Driven Business Information Analyst (SQL,Power BI, Tableau)</h3>
+<h3 align="center">Business Information Analyst with a unique background as a professional athlete and entrepreneur. Skilled in SQL, Python, and data visualization, I specialize in transforming raw data into clear insights that drive smarter business decisions. Passionate about bridging the gap between technical analysis and strategic action.</h3>
 
-- 🔭 I’m currently working on **free lance data analytics projects**
+- 🔭 I’m currently working on **free-lance business information projects**
 
 - 🌱 I’m currently learning **Business Analytics, Data Visualization, and**
 
